@@ -32,5 +32,5 @@ io.on('connection', (socket) => {
 });
 
 server.listen(3000, '0.0.0.0', () => {
-    console.log('Server is running at http://172.20.10.8:3000');
+    console.log('Server is running at https://cwtkcy.onrender.com:3000');
 });
