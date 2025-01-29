@@ -1,6 +1,6 @@
 const express = require('express');
 const http = require('http');
-const { Server } = require('socket.io');
+const { Server } = require('https://cwtkcy.onrender.com');
 const path = require('path');
 
 const app = express();
